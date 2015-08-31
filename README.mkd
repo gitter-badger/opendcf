@@ -1,0 +1,3 @@
+# OpenDCF
+
+OpenDCF est outil simple et rapide de création de Devis, Commandes et Factures écrit en PHP et exploitant une base de données MySQL. Ses utilisateurs sont les TPE et les Entreprises individuelles.
